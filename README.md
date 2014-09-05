@@ -1,6 +1,7 @@
 # base
 
-Base styles for Puse.
+Base styles for [Puse](https://github.com/puse/puse).
+
 ## Installation
 
 Using [component](https://github.com/component/component):
