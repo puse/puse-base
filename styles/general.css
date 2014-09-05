@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+
+/* Images */
+
+img {
+    border: 0;
+    -ms-interpolation-mode: bicubic;
+}
+
+svg:not(:root) {
+    overflow: hidden;
+}
+
+figure {
+    margin: 0;
+}
+

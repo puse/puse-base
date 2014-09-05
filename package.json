@@ -1,0 +1,25 @@
+{
+  "name": "puse-base",
+  "description": "Base styles for Puse.",
+  "version": "0.0.1",
+  "author": "Mushex Antaranian",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/puse/base.git"
+  },
+  "scripts": {
+    "build": "make build"
+  },
+  "style": "style.css",
+  "devDependencies": {
+    "faiton": "^1.0.1"
+  },
+  "dependencies": {
+    "normalize.css": "^3.0.1"
+  },
+  "license": "MIT"
+}

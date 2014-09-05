@@ -1,0 +1,13 @@
+{
+  "name": "base",
+  "repo": "puse/base",
+  "version": "0.0.1",
+  "dependencies": {
+    "necolas/normalize.css": "^3.0.1"
+  },
+  "license": "MIT",
+  "styles": [
+    "styles/variables.css",
+    "styles/general.css"
+  ]
+}

@@ -1,0 +1,4 @@
+@import 'necolas/normalize.css';
+
+@import './style/variables.css';
+@import './style/general.css';
